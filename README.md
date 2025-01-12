@@ -1,5 +1,5 @@
-**Hand Health Monitoring and Task Management System
-**This project provides a comprehensive system for hand health monitoring and rehabilitation, combining computer vision, machine learning, and task management features to assess and track hand performance metrics. The system is designed to support rehabilitation exercises, detect anomalies in hand movements, and analyze muscle atrophy over time. It integrates advanced hand-tracking using MediaPipe and provides real-time feedback to users.
+Hand Health Monitoring and Task Management System
+This project provides a comprehensive system for hand health monitoring and rehabilitation, combining computer vision, machine learning, and task management features to assess and track hand performance metrics. The system is designed to support rehabilitation exercises, detect anomalies in hand movements, and analyze muscle atrophy over time. It integrates advanced hand-tracking using MediaPipe and provides real-time feedback to users.
 Key Features
 1. Hand Tracking and Analysis
 Utilizes MediaPipe for real-time hand landmark detection.
@@ -87,4 +87,3 @@ Preparation Time: 3 seconds
 Future Enhancements
 Integration with additional machine learning models for better prediction accuracy.
 Support for more rehabilitation tasks and exercises.
-
